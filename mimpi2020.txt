@@ -3,4 +3,5 @@ Mimpi 2020:
 - pabrik roti dalam pada juli 2020
 - forum diskusi
 - membuat web tahfidz
+- blajar nginx
 
